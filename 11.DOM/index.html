@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Object Model</title>
+</head>
+<body>
+    <h1 id="header">This page loads and browser created DOM</h1>
+    <div class="div">This is div</div>
+    <p class="div">This is paragraph</p>
+    <button id="btnClick" onclick="displayAlert()">Alert</button>
+    <script>
+        var h1text=document.getElementById('header').innerText
+        console.log(h1text)
+        var divText=document.getElementsByClassName('div')
+        console.log(divText[0].innerHTML)
+        console.log(divText[1].innerHTML)
+
+        function displayAlert(){
+            alert("Hey!")
+        }
+    </script>
+</body>
+</html>

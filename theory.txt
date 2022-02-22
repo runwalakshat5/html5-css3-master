@@ -192,7 +192,7 @@ HTML DOM ( Document Object Model)
 ---------------------------------
 When a page is loaded broswer creates a document object model of the page
 
-Usage : with HTMl DOM javascript can access all the elements of an HTML document, it gets all the power it needs.
+Usage : with HTML DOM javascript can access all the elements of an HTML document, it gets all the power it needs.
 
        Javascript can add, remove, change all the HTML elements, HTMl attributes, css, styles in the page
 
