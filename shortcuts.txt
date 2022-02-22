@@ -6,3 +6,4 @@ create copy of the code - alt +shift + down arrow mark
 To generate Random Code - lorem10 ( number can vary)
 To Modify samiliar code at multiple places - use Ctrl + D
 Alt + Z - word wrap your text
+Default HTML Template - ! + Tab
