@@ -287,5 +287,5 @@ Which explains the relationship between Selectors
 
 1. descendent selector (space)
 2. child selector (>)
-3. adjacent selector + 
-4. general sibling selctor (~)
+3. adjacent sibling selector + 
+4. general sibling selector (~)
